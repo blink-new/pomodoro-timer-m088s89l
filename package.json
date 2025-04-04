@@ -66,7 +66,10 @@
     "autoprefixer": "latest",
     "postcss": "latest",
     "stripe": "latest",
-    "@types/stripe": "latest"
+    "@types/stripe": "latest",
+    "express": "latest",
+    "@types/express": "latest",
+    "dotenv": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
